@@ -24,7 +24,7 @@ Dica: para calcular o percentual de crescimento usamos a seguinte equação: 100
 #
 8. Para uma seleção de produtos alimentícios, precisamos separar o conjunto de IDs dados por números inteiros sabendo que os produtos com ID par são doces e os com ID ímpar são amargos. Monte um código que colete 10 IDs. Depois, calcule e mostre a quantidade de produtos doces e amargos.
 #
-9. Desenvolva um programa que informa a nota de um(a) aluno(a) de acordo com suas respostas. Ele deve pedir a resposta desse(a) aluno(a) para cada questão e é preciso verificar se a resposta foi igual ao gabarito.\
+9. Desenvolva um programa que informe a nota de um(a) aluno(a) de acordo com suas respostas. Ele deve pedir a resposta desse(a) aluno(a) para cada questão e é preciso verificar se a resposta foi igual ao gabarito.\
 Cada questão vale um ponto e existem as alternativas A, B, C ou D.
 >Gabarito da prova:\
 01 - D\
